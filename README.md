@@ -1,2 +1,9 @@
-# Data-Structures---Algorithms
-My Python implementation of various Data Structures and Algorithms
+# Data-Structures & Algorithms 🔢 🧮
+My Python implementations of the following
+- Binary Search Tree
+- Dijksrta
+- Hash Table
+- Heap
+- Kruskal's
+- Shortest Path
+- Stack
