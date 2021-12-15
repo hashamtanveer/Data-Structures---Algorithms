@@ -1,5 +1,5 @@
-# Data-Structures & Algorithms 🔢 🧮
-My Python implementations of the following
+# Data Structures & Algorithms 🔢 🧮
+My Python implementation of the following
 - Binary Search Tree
 - Dijksrta
 - Hash Table
