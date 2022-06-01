@@ -1,4 +1,3 @@
-
 class BTNode:
     '''Binary Tree Node class - do not modify'''
 
